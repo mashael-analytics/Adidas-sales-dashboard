@@ -17,7 +17,7 @@ The dataset used in this dashboard is available in this repository: [adidas_sale
 
 
 ## Dashboard Preview:
-
+![Dashboard Screenshot](adidas-dashboard.png)
 
 ## Notes:
 This project highlights interactive visualizations and key performance indicators (KPIs) to analyze Adidas sales.
